@@ -1,5 +1,13 @@
 # Simulación de Control Regulatorio PI y Feedforward en un Banco de Flotación de 3 Celdas en Serie
 
+🌐 **Aplicación Web Desplegada (URL Pública en Render):**  
+👉 **[https://simulador-control-pi-flotacion.onrender.com](https://simulador-control-pi-flotacion.onrender.com)**
+
+📦 **Repositorio de Código Fuente (GitHub):**  
+👉 **[https://github.com/T-D-R-R/simulador-control-pi-flotacion](https://github.com/T-D-R-R/simulador-control-pi-flotacion)**
+
+---
+
 Aplicación web interactiva y motor matemático en Python que reproduce la metodología e implementación experimental del artículo:
 
 > **Quintanilla, P., Navia, D., Moreno, F., Neethling, S. J., & Brito-Parada, P. R. (2023).**  
